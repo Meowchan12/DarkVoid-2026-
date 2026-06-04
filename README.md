@@ -16,7 +16,6 @@ Established in **2022**, DarkVoid operates beyond the scope of a traditional Min
 *   **👥 Professional Administration:** Governed by a strictly filtered, highly capable staff team. We believe in quality over quantity, maintaining a "purified" operational core that prioritizes server stability and a flawless player experience above all else.
 
 ---
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/377de47d-6929-4342-8095-172b750e5b99" />
 
 ## ⚔️ Project 01: Super Meta Survival+
 > **Status:** Active Deployment & Continuous Development
