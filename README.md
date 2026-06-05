@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>🌌 DarkVoid Network [2026] 🌌</h1>
+  <h1>✨ DarkVoid [2026] ✨</h1>
   <p><i>4th Anniversary Server!</i></p>
 </div>
 
